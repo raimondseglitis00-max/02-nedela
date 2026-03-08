@@ -1,4 +1,3 @@
-# type_explorer.py
 # Uzdevums 1: Tipu pētnieks
 # Mērķis: iepazīt Python datu tipus, truthy/falsy uzvedību un tipu konversijas.
 print("=== 1) PAMATA DATU TIPI (2 mainīgie katram tipam) ===")

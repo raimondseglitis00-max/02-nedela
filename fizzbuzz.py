@@ -1,4 +1,3 @@
-# fizzbuzz.py
 import sys
 
 # pārbauda vai ir ievadīts N
